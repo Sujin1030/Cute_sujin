@@ -1,3 +1,3 @@
 # Cute_sujin
 
-<img width="" height="" src="./png/강아지.png"></img>
+<img width="690x920" height="920" src="./picture/고양이.png"></img>
